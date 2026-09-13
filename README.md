@@ -5,7 +5,11 @@ musiques, captures destinées aux films, films montés. Dépôt public, séparé
 code, pour que les fichiers soient lisibles par leur adresse brute.
 
 **Ce dépôt ne contient jamais** de code, de données, de clé, ni aucune capture
-montrant un compte, une adresse ou un commerce réels.
+montrant un compte, une adresse ou un commerce réels. Trois captures de la série
+du 11 septembre ont été écartées pour cela : elles affichaient une adresse qui
+existe, sous le nom d'un commerce qui n'existe pas. À partir de la reprise des
+données de démonstration du 20 septembre, ces données porteront une adresse
+inexistante, et la question ne se posera plus.
 
 ## Où va quoi
 
